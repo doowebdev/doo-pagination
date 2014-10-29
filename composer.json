@@ -1,0 +1,32 @@
+{
+    "name": "doowebdev/doo-pagination",
+    "description": "Easy pagination that can be used with PHP, Twig Template Engine etc..",
+    "minimum-stability": "stable",
+    "homepage": "https://github.com/doowebdev/doo-pagination",
+    "keywords": ["pagination","twig template engine","twig", "PHP", "PHP Pagination", "Twig Pagination"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freddie Annobil",
+            "homepage": "http://codecanyon.net/user/freddie77/portfolio",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+
+    "autoload": {
+
+        "psr-4":{
+            "Doowebdev\\": "src"
+        }
+    }
+
+
+
+
+
+
+}
